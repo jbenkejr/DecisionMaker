@@ -1,0 +1,11 @@
+C:\Users\jbenk\Desktop\bootcamp2019\DecisionMaker\bin\Debug\netcoreapp2.2\DecisionMaker.deps.json
+C:\Users\jbenk\Desktop\bootcamp2019\DecisionMaker\bin\Debug\netcoreapp2.2\DecisionMaker.runtimeconfig.json
+C:\Users\jbenk\Desktop\bootcamp2019\DecisionMaker\bin\Debug\netcoreapp2.2\DecisionMaker.runtimeconfig.dev.json
+C:\Users\jbenk\Desktop\bootcamp2019\DecisionMaker\bin\Debug\netcoreapp2.2\DecisionMaker.dll
+C:\Users\jbenk\Desktop\bootcamp2019\DecisionMaker\bin\Debug\netcoreapp2.2\DecisionMaker.pdb
+C:\Users\jbenk\Desktop\bootcamp2019\DecisionMaker\obj\Debug\netcoreapp2.2\DecisionMaker.csprojAssemblyReference.cache
+C:\Users\jbenk\Desktop\bootcamp2019\DecisionMaker\obj\Debug\netcoreapp2.2\DecisionMaker.csproj.CoreCompileInputs.cache
+C:\Users\jbenk\Desktop\bootcamp2019\DecisionMaker\obj\Debug\netcoreapp2.2\DecisionMaker.AssemblyInfoInputs.cache
+C:\Users\jbenk\Desktop\bootcamp2019\DecisionMaker\obj\Debug\netcoreapp2.2\DecisionMaker.AssemblyInfo.cs
+C:\Users\jbenk\Desktop\bootcamp2019\DecisionMaker\obj\Debug\netcoreapp2.2\DecisionMaker.dll
+C:\Users\jbenk\Desktop\bootcamp2019\DecisionMaker\obj\Debug\netcoreapp2.2\DecisionMaker.pdb
